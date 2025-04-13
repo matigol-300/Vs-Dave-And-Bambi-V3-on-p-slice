@@ -5,18 +5,18 @@
 	],
 	"_editorMeta": {
 		"boyfriend": "bf",
-		"gf": "gf",
-		"dad": "bambi"
+		"dad": "bambi",
+		"gf": "gf"
 	},
+	"boyfriend": [
+		903,
+		143
+	],
 	"girlfriend": [
 		369,
 		137
 	],
 	"stageUI": "normal",
-	"boyfriend": [
-		903,
-		143
-	],
 	"defaultZoom": 0.7,
 	"objects": [
 		{
@@ -39,6 +39,50 @@
 				0.6
 			],
 			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -592,
+			"y": -419,
+			"scale": [
+				1,
+				1
+			],
+			"image": "bg/sky/sky_sunset",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "fondo_2",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.6,
+				0.55
+			],
+			"alpha": 0,
+			"type": "sprite"
+		},
+		{
+			"x": -588,
+			"y": -472,
+			"scale": [
+				1,
+				1
+			],
+			"image": "bg/sky/sky_night",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "fondo_3",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.6,
+				0.6
+			],
+			"alpha": 0,
 			"type": "sprite"
 		},
 		{
@@ -218,48 +262,48 @@
 			"alpha": 0,
 			"animations": [
 				{
+					"loop": false,
 					"offsets": [
 						0,
 						0
 					],
-					"loop": false,
-					"fps": 24,
 					"anim": "dave_bruh",
-					"indices": [],
-					"name": "bruh"
+					"fps": 24,
+					"name": "bruh",
+					"indices": []
 				},
 				{
+					"loop": false,
 					"offsets": [
 						17,
 						0
 					],
-					"loop": false,
-					"fps": 24,
 					"anim": "dave_happy",
-					"indices": [],
-					"name": "happy"
+					"fps": 24,
+					"name": "happy",
+					"indices": []
 				},
 				{
+					"loop": false,
 					"offsets": [
 						-50,
 						-254
 					],
-					"loop": false,
-					"fps": 24,
 					"anim": "bambi_corn",
-					"indices": [],
-					"name": "splitathon corn"
+					"fps": 24,
+					"name": "splitathon corn",
+					"indices": []
 				},
 				{
+					"loop": false,
 					"offsets": [
 						-52,
 						-262
 					],
-					"loop": false,
-					"fps": 24,
 					"anim": "bambi_idle",
-					"indices": [],
-					"name": "splitathon idle"
+					"fps": 24,
+					"name": "splitathon idle",
+					"indices": []
 				}
 			],
 			"type": "animatedSprite"
@@ -322,15 +366,15 @@
 		0,
 		0
 	],
+	"camera_speed": 2,
+	"directory": "",
 	"opponent": [
 		127,
 		134
 	],
-	"directory": "",
-	"camera_speed": 2,
-	"hide_girlfriend": false,
 	"camera_opponent": [
 		0,
 		-50
-	]
+	],
+	"hide_girlfriend": false
 }

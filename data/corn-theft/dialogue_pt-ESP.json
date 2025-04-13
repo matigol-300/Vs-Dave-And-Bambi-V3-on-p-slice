@@ -1,0 +1,204 @@
+{
+	"dialogue": [
+		{
+			"expression": "enojado",
+			"text": "¡POR LA PUTA MADRE!",
+			"boxState": "angry",
+			"sound": "bambDialogue1",
+			"speed": 0.05,
+			"portrait": "bambi_digo"
+		},
+		{
+			"expression": "talk",
+			"text": "LLAMADA ENTRANTE DE: DAVE",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tupapa"
+		},
+		{
+			"expression": "nose",
+			"text": "¿Huh? ¿Hola?",
+			"boxState": "normal",
+			"sound": "bambDialogue1",
+			"speed": 0.08,
+			"portrait": "bambi_digo"
+		},
+		{
+			"expression": "dave telefono",
+			"text": "Hola Bambi, habla Dave...",
+			"boxState": "normal",
+			"sound": "daveDialogue",
+			"speed": 0.05,
+			"portrait": "dave_digo"
+		},
+		{
+			"expression": "nose",
+			"text": "¿Por qué me intentas llamar?",
+			"boxState": "normal",
+			"sound": "bambDialogue1",
+			"speed": 0.05,
+			"portrait": "bambi_digo"
+		},
+		{
+			"expression": "dave telefono",
+			"text": "¿Hay alguna posibilidad de que estas peleando con dos \"invasores\" de altura pequeña por maíz ahora mismo?",
+			"boxState": "normal",
+			"sound": "daveDialogue",
+			"speed": 0.015,
+			"portrait": "dave_digo"
+		},
+		{
+			"expression": "enojado",
+			"text": "Si... ¡Justificablemente!",
+			"boxState": "normal",
+			"sound": "bambDialogue1",
+			"speed": 0.035,
+			"portrait": "bambi_digo"
+		},
+		{
+			"expression": "dave telefono",
+			"text": "Bambi. No están invadiendo.",
+			"boxState": "normal",
+			"sound": "daveDialogue",
+			"speed": 0.05,
+			"portrait": "dave_digo"
+		},
+		{
+			"expression": "nose",
+			"text": "¿Qué?",
+			"boxState": "normal",
+			"sound": "bambDialogue1",
+			"speed": 0.1,
+			"portrait": "bambi_digo"
+		},
+		{
+			"expression": "dave telefono",
+			"text": "¡Te dije anteriormente que estaba planeando en tener un picnic con ellos!",
+			"boxState": "normal",
+			"sound": "daveDialogue",
+			"speed": 0.025,
+			"portrait": "dave_digo"
+		},
+		{
+			"expression": "nose",
+			"text": "Eso no tiene sentido...",
+			"boxState": "normal",
+			"sound": "bambDialogue1",
+			"speed": 0.05,
+			"portrait": "bambi_digo"
+		},
+		{
+			"expression": "dave telefono",
+			"text": "¡Creo que se lo que esta pasando aquí!",
+			"boxState": "normal",
+			"sound": "daveDialogue",
+			"speed": 0.05,
+			"portrait": "dave_digo"
+		},
+		{
+			"expression": "enojado",
+			"text": "¡Estos no eran los amigos que tu pensabas que eran!",
+			"boxState": "normal",
+			"sound": "bambDialogue1",
+			"speed": 0.03,
+			"portrait": "bambi_digo"
+		},
+		{
+			"expression": "dave telefono",
+			"text": "Bambi dime que todo esto es una broma-",
+			"boxState": "normal",
+			"sound": "daveDialogue",
+			"speed": 0.03,
+			"portrait": "dave_digo"
+		},
+		{
+			"expression": "talk",
+			"text": "LLAMADA FINALIZADA",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tupapa"
+		},
+		{
+			"expression": "nose",
+			"text": "Erm...",
+			"boxState": "normal",
+			"sound": "bambDialogue1",
+			"speed": 0.05,
+			"portrait": "bambi_digo"
+		},
+		{
+			"expression": "enojado",
+			"text": "¿Están usando la invitación de Dave para robar maíz?\r",
+			"boxState": "normal",
+			"sound": "bambDialogue1",
+			"speed": 0.035,
+			"portrait": "bambi_digo"
+		},
+		{
+			"expression": "que",
+			"text": "¡Eso es lo que ni siquiera estamos tratando de hacer!",
+			"boxState": "normal",
+			"sound": "gfDialogue",
+			"speed": 0.05,
+			"portrait": "gf_digo"
+		},
+		{
+			"expression": "nose",
+			"text": "¡Beep beep vroom vroom!",
+			"boxState": "normal",
+			"sound": "bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf_digo"
+		},
+		{
+			"expression": "nose",
+			"text": "Okay, saben que-",
+			"boxState": "normal",
+			"sound": "bambDialogue1",
+			"speed": 0.05,
+			"portrait": "bambi_digo"
+		},
+		{
+			"expression": "nose",
+			"text": "No ganen esta ronda... o... o...",
+			"boxState": "normal",
+			"sound": "bambDialogue1",
+			"speed": 0.05,
+			"portrait": "bambi_digo"
+		},
+		{
+			"expression": "enojado",
+			"text": "¡Rompere mi teléfono!",
+			"boxState": "angry",
+			"sound": "bambDialogue1",
+			"speed": 0.03,
+			"portrait": "bambi_digo"
+		},
+		{
+			"expression": "enojado",
+			"text": "¡Si! ¡Romperé mi teléfono y quedaran castigados!",
+			"boxState": "normal",
+			"sound": "bambDialogue1",
+			"speed": 0.05,
+			"portrait": "bambi_digo"
+		},
+		{
+			"expression": "nose",
+			"text": "Bop...",
+			"boxState": "normal",
+			"sound": "bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf_digo"
+		},
+		{
+			"expression": "que",
+			"text": "Si eso lo consideras como un castigo entonces estás un poco mal de la cabeza.",
+			"boxState": "normal",
+			"sound": "gfDialogue",
+			"speed": 0.05,
+			"portrait": "gf_digo"
+		}
+	]
+}

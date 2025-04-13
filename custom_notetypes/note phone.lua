@@ -26,17 +26,23 @@ end
 function goodNoteHit(membersIndex, noteData, noteType, isSustainNote)
 if noteType == 'note phone' then
 playAnim('dad', 'ataque', true)
-setProperty('boyfriend.color', getColorFromHex('6eaaff'))
+setProperty('dad.specialAnim', true)
+if songName ~= 'Maze' then
+setProperty('boyfriend.color', getColorFromHex('6EAAFF'))
 doTweenColor('boyfriend_color', 'boyfriend', 'FFFFFF', 1.5, 'linear')
+end
 end
 end
 function noteMiss(membersIndex, noteData, noteType, isSustainNote)
 if noteType == 'note phone' then
 playAnim('dad', 'ataque', true)
-setProperty('boyfriend.color', getColorFromHex('FF0000'))
-doTweenColor('boyfriend_color', 'boyfriend', 'FFFFFF', 1.5, 'linear')
+setProperty('dad.specialAnim', true)
 playAnim('boyfriend', 'scared', true)
 addHealth(-0.2)
+if songName ~= 'Maze' then
+setProperty('boyfriend.color', getColorFromHex('FF0000'))
+doTweenColor('boyfriend_color', 'boyfriend', 'FFFFFF', 1.5, 'linear')
+end
 if noteData == 0 then
 noteTweenAlpha('note_1_alpha', 4, 0, 0.01, 'sineInOut')
 noteTweenAlpha('note_1_D_alpha', 4, 1, 5, 'sineInOut')

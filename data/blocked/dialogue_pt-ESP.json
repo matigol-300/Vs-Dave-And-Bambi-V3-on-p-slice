@@ -1,0 +1,108 @@
+{
+	"dialogue": [
+		{
+			"expression": "normal",
+			"text": "Que tan buena persona es Dave, que nos esta invitando a esta granja para un picnic.",
+			"boxState": "normal",
+			"sound": "gfDialogue",
+			"speed": 0.035,
+			"portrait": "gf_digo"
+		},
+		{
+			"expression": "normal",
+			"text": "Creo que esto compensa que casi nos mata con toda esa tontería en 3D.",
+			"boxState": "normal",
+			"sound": "gfDialogue",
+			"speed": 0.035,
+			"portrait": "gf_digo"
+		},
+		{
+			"expression": "normal",
+			"text": "Skibbidy.",
+			"boxState": "normal",
+			"sound": "bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf_digo"
+		},
+		{
+			"expression": "talk",
+			"text": "Espero que ningún granjero enano con poco temperamento aparezca entre nosotros!",
+			"boxState": "normal",
+			"sound": "gfDialogue",
+			"speed": 0.05,
+			"portrait": "gf_digo"
+		},
+		{
+			"expression": "normal",
+			"text": "Especialmente uno con la suposición de que estamos robando su maíz...",
+			"boxState": "normal",
+			"sound": "gfDialogue",
+			"speed": 0.05,
+			"portrait": "gf_digo"
+		},
+		{
+			"expression": "enojado",
+			"text": "¿Quien está ahí?",
+			"boxState": "normal",
+			"sound": "bambDialogue1",
+			"speed": 0.05,
+			"portrait": "bambi_digo"
+		},
+		{
+			"expression": "nose",
+			"text": "¿Beep?",
+			"boxState": "normal",
+			"sound": "bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf_digo"
+		},
+		{
+			"expression": "que",
+			"text": "Mierda.",
+			"boxState": "normal",
+			"sound": "gfDialogue",
+			"speed": 0.2,
+			"portrait": "gf_digo"
+		},
+		{
+			"expression": "enojado",
+			"text": "¡Oigan! ¿Están intentando robar mi maíz?",
+			"boxState": "normal",
+			"sound": "bambDialogue1",
+			"speed": 0.05,
+			"portrait": "bambi_digo"
+		},
+		{
+			"expression": "nose",
+			"text": "Bo beep ber-",
+			"boxState": "normal",
+			"sound": "bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf_digo"
+		},
+		{
+			"expression": "enojado",
+			"text": "¡VOY A BLOQUEARTE DE MI GRANJA! No volverán nunca pedazos de chatarra en desuso.",
+			"boxState": "angry",
+			"sound": "bambDialogue1",
+			"speed": 0.05,
+			"portrait": "bambi_digo"
+		},
+		{
+			"expression": "nose",
+			"text": "¿Bop?",
+			"boxState": "normal",
+			"sound": "bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf_digo"
+		},
+		{
+			"expression": "que",
+			"text": "Solo empieza con esto Boyfriend.",
+			"boxState": "normal",
+			"sound": "gfDialogue",
+			"speed": 0.05,
+			"portrait": "gf_digo"
+		}
+	]
+}

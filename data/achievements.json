@@ -7,19 +7,19 @@
 	{		
 		"save": "dave",
 		"name": "Dave was totally outmatched.",
-		"description": "Get a higher score than Dave 27 in Dave's Week"
+		"description": "Beat all the songs of the Week Dave without misses"
 		"maxScore": 3,
 		"maxDecimals": 0,		
 	},
 	{
 		"save": "rtx",
 		"name": "the future is today!!!",
-		"description": "Get the RTX ending (Dave's week)"		
+		"description": "Get the RTX ending (in Week Dave)"		
 	},
 	{			
 		"save": "bambi",
 		"name": "Bambi is left without a cell phone",
-		"description": "Get a higher score than Dave 27 in Bambi's Week"
+		"description": "Beat all the songs of the Week Bambi without misses"
 		"maxScore": 3,
 		"maxDecimals": 0,		
 	},

@@ -27,11 +27,3 @@ setShaderFloat('bg_3d_red', "uWaveAmplitude", 0.04)
 setShaderFloat('bg_3d_red', "uSpeed", 5)
 setShaderFloat('bg_3d_red', "uFrequency", 5)
 end
-function onEndSong()
-if callMethodFromClass('backend.Highscore', 'getScore', {songName, 'Hard'}) < 124000 then
-if score > 124000 then
-playSound('higher_score')
-addAchievementScore('dave', 1)
-end
-end
-end

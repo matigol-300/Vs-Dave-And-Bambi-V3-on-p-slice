@@ -111,11 +111,3 @@ endSong()
 end
 end
 end
-function onEndSong()
-if callMethodFromClass('backend.Highscore', 'getScore', {songName, 'Hard'}) < 281230 then
-if score > 281230 then
-playSound('higher_score')
-addAchievementScore('dave', 1)
-end
-end
-end

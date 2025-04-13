@@ -8,7 +8,7 @@ function onStartCountdown()
 			playVideo = false;
 			return Function_Stop; --Prevents the song from starting naturally
 		elseif playDialogue then --Once the video ends it calls onStartCountdown again. Play dialogue this time
-			startDialogue('dialogue', 'DaveDialogue'); --"breakfast" is the dialogue music file from "music/" folder
+			startDialogue('dialogue_'..getPropertyFromClass('backend.ClientPrefs', 'data.language'), 'DaveDialogue'); --"breakfast" is the dialogue music file from "music/" folder
 			playDialogue = false;
 			return Function_Stop; --Prevents the song from starting naturally
 		end

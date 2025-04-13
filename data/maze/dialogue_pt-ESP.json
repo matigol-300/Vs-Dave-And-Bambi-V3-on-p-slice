@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"expression": "nose",
+			"text": "Mi telefono...",
+			"boxState": "normal",
+			"sound": "bambDialogue1",
+			"speed": 0.05,
+			"portrait": "bambi_digo"
+		},
+		{
+			"expression": "nose",
+			"text": "¡Miren lo que ustedes dos hicieron!",
+			"boxState": "normal",
+			"sound": "bambDialogue1",
+			"speed": 0.05,
+			"portrait": "bambi_digo"
+		},
+		{
+			"expression": "enojado",
+			"text": "¡No saben en que problema me han metido!",
+			"boxState": "normal",
+			"sound": "bambDialogue1",
+			"speed": 0.03,
+			"portrait": "bambi_digo"
+		},
+		{
+			"expression": "enojado",
+			"text": "¡Los dos van a morir!",
+			"boxState": "angry",
+			"sound": "bambDialogue1",
+			"speed": 0.05,
+			"portrait": "bambi_digo"
+		},
+		{
+			"expression": "que",
+			"text": "No creo que quieras intentar eso.",
+			"boxState": "normal",
+			"sound": "gfDialogue",
+			"speed": 0.04,
+			"portrait": "gf_digo"
+		},
+		{
+			"expression": "enojado",
+			"text": "Eso es todo.. ¡Eso es todo!",
+			"boxState": "normal",
+			"sound": "bambDialogue1",
+			"speed": 0.05,
+			"portrait": "bambi_digo"
+		},
+		{
+			"expression": "nose",
+			"text": "Una cancion más... Si ganan, Y- Yo, uhh..",
+			"boxState": "normal",
+			"sound": "bambDialogue1",
+			"speed": 0.05,
+			"portrait": "bambi_digo"
+		},
+		{
+			"expression": "nose",
+			"text": "Creo que iré a dormir despúes de esto...",
+			"boxState": "normal",
+			"sound": "bambDialogue1",
+			"speed": 0.05,
+			"portrait": "bambi_digo"
+		},
+		{
+			"expression": "que",
+			"text": "Voy a asumir que gritar por casi 6 minutos seguidos puede ser demasiado agotador.",
+			"boxState": "normal",
+			"sound": "gfDialogue",
+			"speed": 0.05,
+			"portrait": "gf_digo"
+		},
+		{
+			"expression": "enojado",
+			"text": "No lo es!",
+			"boxState": "normal",
+			"sound": "bambDialogue1",
+			"speed": 0.05,
+			"portrait": "bambi_digo"
+		}
+	]
+}
