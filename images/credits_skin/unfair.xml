@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="unfair.png" width="902" height="902">
+	<SubTexture name="Unfairness0000" x="1" y="1" width="400" height="50" frameX="-0" frameY="-0" frameWidth="401" frameHeight="50"/>
+	<SubTexture name="Unfairness0001" x="401" y="1" width="400" height="50" frameX="-0" frameY="-0" frameWidth="401" frameHeight="50"/>
+	<SubTexture name="Unfairness0002" x="801" y="1" width="50" height="400" rotated="true" frameX="-0" frameY="-0" frameWidth="401" frameHeight="50"/>
+	<SubTexture name="Unfairness0003" x="851" y="1" width="50" height="400" rotated="true" frameX="-0" frameY="-0" frameWidth="401" frameHeight="50"/>
+	<SubTexture name="Unfairness0004" x="1" y="401" width="50" height="400" rotated="true" frameX="-0" frameY="-0" frameWidth="401" frameHeight="50"/>
+	<SubTexture name="Unfairness0005" x="1" y="801" width="400" height="50" frameX="-0" frameY="-0" frameWidth="401" frameHeight="50"/>
+	<SubTexture name="Unfairness0006" x="1" y="851" width="400" height="50" frameX="-0" frameY="-0" frameWidth="401" frameHeight="50"/>
+	<SubTexture name="Unfairness0007" x="51" y="401" width="50" height="400" rotated="true" frameX="-0" frameY="-0" frameWidth="401" frameHeight="50"/>
+	<SubTexture name="Unfairness0008" x="101" y="401" width="50" height="400" rotated="true" frameX="-0" frameY="-0" frameWidth="401" frameHeight="50"/>
+	<SubTexture name="Unfairness0009" x="151" y="401" width="50" height="400" rotated="true" frameX="-0" frameY="-0" frameWidth="401" frameHeight="50"/>
+	<SubTexture name="Unfairness0010" x="201" y="401" width="50" height="400" rotated="true" frameX="-0" frameY="-0" frameWidth="401" frameHeight="50"/>
+	<SubTexture name="Unfairness0011" x="251" y="401" width="50" height="400" rotated="true" frameX="-0" frameY="-0" frameWidth="401" frameHeight="50"/>
+	<SubTexture name="Unfairness0012" x="301" y="401" width="50" height="400" rotated="true" frameX="-0" frameY="-0" frameWidth="401" frameHeight="50"/>
+	<SubTexture name="Unfairness0013" x="351" y="401" width="50" height="400" rotated="true" frameX="-0" frameY="-0" frameWidth="401" frameHeight="50"/>
+	<SubTexture name="Unfairness0014" x="401" y="51" width="400" height="50" frameX="-0" frameY="-0" frameWidth="401" frameHeight="50"/>
+	<SubTexture name="Unfairness0015" x="1" y="51" width="400" height="50" frameX="-0" frameY="-0" frameWidth="401" frameHeight="50"/>
+	<SubTexture name="Unfairness0016" x="401" y="101" width="400" height="50" frameX="-0" frameY="-0" frameWidth="401" frameHeight="50"/>
+	<SubTexture name="Unfairness0017" x="1" y="101" width="400" height="50" frameX="-0" frameY="-0" frameWidth="401" frameHeight="50"/>
+	<SubTexture name="Unfairness0018" x="401" y="151" width="400" height="50" frameX="-0" frameY="-0" frameWidth="401" frameHeight="50"/>
+	<SubTexture name="Unfairness0019" x="1" y="151" width="400" height="50" frameX="-0" frameY="-0" frameWidth="401" frameHeight="50"/>
+	<SubTexture name="Unfairness0020" x="401" y="201" width="400" height="50" frameX="-0" frameY="-0" frameWidth="401" frameHeight="50"/>
+	<SubTexture name="Unfairness0021" x="401" y="201" width="400" height="50" frameX="-0" frameY="-0" frameWidth="401" frameHeight="50"/>
+	<SubTexture name="Unfairness0022" x="1" y="201" width="400" height="50" frameX="-0" frameY="-0" frameWidth="401" frameHeight="50"/>
+	<SubTexture name="Unfairness0023" x="401" y="251" width="400" height="50" frameX="-0" frameY="-0" frameWidth="401" frameHeight="50"/>
+	<SubTexture name="Unfairness0024" x="1" y="251" width="400" height="50" frameX="-0" frameY="-0" frameWidth="401" frameHeight="50"/>
+	<SubTexture name="Unfairness0025" x="401" y="301" width="400" height="50" frameX="-0" frameY="-0" frameWidth="401" frameHeight="50"/>
+	<SubTexture name="Unfairness0026" x="1" y="301" width="400" height="50" frameX="-0" frameY="-0" frameWidth="401" frameHeight="50"/>
+	<SubTexture name="Unfairness0027" x="1" y="351" width="400" height="50" frameX="-0" frameY="-0" frameWidth="401" frameHeight="50"/>
+	<SubTexture name="Unfairness0028" x="401" y="351" width="400" height="50" frameX="-0" frameY="-0" frameWidth="401" frameHeight="50"/>
+	<SubTexture name="Unfairness0029" x="401" y="401" width="400" height="50" frameX="-0" frameY="-0" frameWidth="401" frameHeight="50"/>
+	<SubTexture name="Unfairness0030" x="801" y="401" width="50" height="400" rotated="true" frameX="-0" frameY="-0" frameWidth="401" frameHeight="50"/>
+	<SubTexture name="Unfairness0031" x="851" y="401" width="50" height="400" rotated="true" frameX="-0" frameY="-0" frameWidth="401" frameHeight="50"/>
+	<SubTexture name="Unfairness0032" x="401" y="451" width="400" height="50" frameX="-0" frameY="-0" frameWidth="401" frameHeight="50"/>
+	<SubTexture name="Unfairness0033" x="401" y="501" width="400" height="50" frameX="-0" frameY="-0" frameWidth="401" frameHeight="50"/>
+	<SubTexture name="Unfairness0034" x="401" y="551" width="400" height="50" frameX="-0" frameY="-0" frameWidth="401" frameHeight="50"/>
+	<SubTexture name="Unfairness0035" x="401" y="601" width="400" height="50" frameX="-0" frameY="-0" frameWidth="401" frameHeight="50"/>
+	<SubTexture name="Unfairness0036" x="401" y="651" width="400" height="50" frameX="-0" frameY="-0" frameWidth="401" frameHeight="50"/>
+	<SubTexture name="Unfairness0037" x="401" y="701" width="400" height="50" frameX="-0" frameY="-0" frameWidth="401" frameHeight="50"/>
+	<SubTexture name="Unfairness0038" x="401" y="751" width="400" height="50" frameX="-0" frameY="-0" frameWidth="401" frameHeight="50"/>
+	<SubTexture name="Unfairness0039" x="401" y="801" width="400" height="50" frameX="-0" frameY="-0" frameWidth="401" frameHeight="50"/>
+	<SubTexture name="Unfairness0040" x="401" y="851" width="400" height="50" frameX="-0" frameY="-0" frameWidth="401" frameHeight="50"/>
+</TextureAtlas>

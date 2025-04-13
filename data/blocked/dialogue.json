@@ -1,0 +1,108 @@
+{
+	"dialogue": [
+		{
+			"sound": "gfDialogue",
+			"speed": 0.035,
+			"portrait": "gf_digo",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "What a nice guy that Dave is for inviting us to this farm for a picnic."
+		},
+		{
+			"sound": "gfDialogue",
+			"speed": 0.035,
+			"portrait": "gf_digo",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "I say this makes up for him almost killing us with that whole 3D thing."
+		},
+		{
+			"sound": "bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf_digo",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Skibbidy."
+		},
+		{
+			"sound": "gfDialogue",
+			"speed": 0.05,
+			"portrait": "gf_digo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I sure do hope no midget farmer with one short of a temper stumbles apon us!"
+		},
+		{
+			"sound": "gfDialogue",
+			"speed": 0.05,
+			"portrait": "gf_digo",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Especially one with the presumption that we were stealing their corn..."
+		},
+		{
+			"sound": "bambDialogue1",
+			"speed": 0.05,
+			"portrait": "bambi_digo",
+			"boxState": "normal",
+			"expression": "enojado",
+			"text": "Who goes there??"
+		},
+		{
+			"sound": "bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf_digo",
+			"boxState": "normal",
+			"expression": "nose",
+			"text": "Beep?"
+		},
+		{
+			"sound": "gfDialogue",
+			"speed": 0.2,
+			"portrait": "gf_digo",
+			"boxState": "normal",
+			"expression": "que",
+			"text": "Shit."
+		},
+		{
+			"sound": "bambDialogue1",
+			"speed": 0.05,
+			"portrait": "bambi_digo",
+			"boxState": "normal",
+			"expression": "enojado",
+			"text": "Hey! Are you trying to steal my corn?"
+		},
+		{
+			"sound": "bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf_digo",
+			"boxState": "normal",
+			"expression": "nose",
+			"text": "Bo beep ber-"
+		},
+		{
+			"sound": "bambDialogue1",
+			"speed": 0.05,
+			"portrait": "bambi_digo",
+			"boxState": "angry",
+			"expression": "enojado",
+			"text": "I GONNA BLOCK YOU OUT OF MY FARM! You never coming back ever again you dirty ole' rodeo trash."
+		},
+		{
+			"sound": "bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf_digo",
+			"boxState": "normal",
+			"expression": "nose",
+			"text": "Bop?"
+		},
+		{
+			"sound": "gfDialogue",
+			"speed": 0.05,
+			"portrait": "gf_digo",
+			"boxState": "normal",
+			"expression": "que",
+			"text": "Just get on with it Boyfriend."
+		}
+	]
+}

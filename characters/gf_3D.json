@@ -1,0 +1,31 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle gf instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-5, 6],
+			"anim": "sad",
+			"fps": 24,
+			"name": "sad gf instance",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/gf_3D",
+	"position": [-50, -140],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [165, 0, 77],
+	"camera_position": [-40, 200],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

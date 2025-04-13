@@ -1,0 +1,27 @@
+{
+	"songs": [
+		[
+			"cheating",
+			"expunged",
+			[
+				0,
+				135,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "cheating!!!",
+	"weekName": "week cheating",
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

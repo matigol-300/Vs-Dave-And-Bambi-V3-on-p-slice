@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		180,
+		90
+	],
+	"scale": 1.7,
+	"animations": [
+		{
+			"loop_name": "bf_digo norma",
+			"idle_offsets": [
+				137,
+				-33
+			],
+			"idle_name": "bf_digo norma",
+			"anim": "normal",
+			"loop_offsets": [
+				137,
+				-32
+			]
+		},
+		{
+			"loop_name": "bf_digo enojado",
+			"idle_offsets": [
+				137,
+				-33
+			],
+			"idle_name": "bf_digo enojado",
+			"anim": "enojado",
+			"loop_offsets": [
+				2,
+				-1
+			]
+		},
+		{
+			"loop_name": "bf_digo serio",
+			"idle_offsets": [
+				137,
+				-33
+			],
+			"idle_name": "bf_digo serio",
+			"anim": "serio",
+			"loop_offsets": [
+				0,
+				1
+			]
+		},
+		{
+			"loop_name": "bf_digo nose",
+			"idle_offsets": [
+				137,
+				-33
+			],
+			"idle_name": "bf_digo nose",
+			"anim": "nose",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "tupapa"
+}

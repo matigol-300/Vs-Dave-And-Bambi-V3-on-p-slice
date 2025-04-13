@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="expunged.png" width="531" height="594">
+	<SubTexture name="Expunged0000" x="1" y="1" width="403" height="126" frameX="-0" frameY="-0" frameWidth="403" frameHeight="126"/>
+	<SubTexture name="Expunged0001" x="404" y="1" width="126" height="403" rotated="true" frameX="-0" frameY="-0" frameWidth="403" frameHeight="126"/>
+	<SubTexture name="Expunged0002" x="1" y="127" width="403" height="118" frameX="-0" frameY="-4" frameWidth="403" frameHeight="126"/>
+	<SubTexture name="Expunged0003" x="1" y="245" width="403" height="118" frameX="-0" frameY="-4" frameWidth="403" frameHeight="126"/>
+	<SubTexture name="Expunged0004" x="1" y="363" width="403" height="115" frameX="-0" frameY="-6" frameWidth="403" frameHeight="126"/>
+	<SubTexture name="Expunged0005" x="1" y="478" width="403" height="115" frameX="-0" frameY="-6" frameWidth="403" frameHeight="126"/>
+</TextureAtlas>

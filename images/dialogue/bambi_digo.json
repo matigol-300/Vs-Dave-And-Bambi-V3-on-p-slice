@@ -1,0 +1,89 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		180,
+		160
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "bambi_digo normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bambi_digo normal",
+			"anim": "normal",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "bambi_digo enojado",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bambi_digo enojado",
+			"anim": "enojado",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "bambi_digo nose",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bambi_digo nose",
+			"anim": "nose",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "bambi_digo largo",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bambi_digo largo",
+			"anim": "largo",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "bambi_digo broma0",
+			"idle_offsets": [
+				-12,
+				8
+			],
+			"idle_name": "bambi_digo broma0",
+			"anim": "broma",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "bambi_digo broma enojado",
+			"idle_offsets": [
+				-8,
+				7
+			],
+			"idle_name": "bambi_digo broma enojado",
+			"anim": "broma enojado",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "bambi_digo"
+}

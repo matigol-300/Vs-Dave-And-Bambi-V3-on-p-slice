@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tristan_digo.png">
+<SubTexture name="tristan_digo normal0000" x="0" y="0" width="254" height="291" frameX="0" frameY="0" frameWidth="256" frameHeight="291" />
+<SubTexture name="tristan_digo fun0000" x="254" y="0" width="254" height="291" frameX="0" frameY="0" frameWidth="256" frameHeight="291" />
+<SubTexture name="tristan_digo que0000" x="508" y="0" width="254" height="291" frameX="0" frameY="0" frameWidth="256" frameHeight="291" />
+<SubTexture name="tristan_digo triste0000" x="0" y="291" width="284" height="291" frameX="0" frameY="0" frameWidth="288" frameHeight="291" />
+</TextureAtlas>

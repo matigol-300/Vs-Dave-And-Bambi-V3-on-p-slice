@@ -1,0 +1,9 @@
+{
+	"name": "VS dave and bambi v3",
+	"description": "Have fun with Dave and Bambi with fun songs that you can play. mod originally made by moldygh",
+	"restart":true,
+	"runsGlobally": false,
+	"color": [0, 0, 255],
+	"discordRPC": "863222024192262205",
+	"iconFramerate": 10
+}

@@ -1,0 +1,2 @@
+value 1 = zoom
+value 2 = speed

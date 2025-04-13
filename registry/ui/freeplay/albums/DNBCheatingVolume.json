@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "name": "DNB Cheating Volume",
+  "artists": ["MoldyGH", "Oxygen"],
+  "albumArtAsset": "freeplay/album/DNBCheatingVol",
+  "albumTitleAsset": "freeplay/text/DNB_cheating_volume_text"
+}

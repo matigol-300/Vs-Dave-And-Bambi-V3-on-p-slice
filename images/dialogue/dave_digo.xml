@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dave_digo.png">
+<SubTexture name="dave_digo asustado0000" x="236" y="0" width="235" height="363" frameX="-1" frameY="-1" frameWidth="236" frameHeight="364" />
+<SubTexture name="dave_digo asustado0001" x="0" y="0" width="236" height="364" frameX="0" frameY="0" frameWidth="236" frameHeight="364" />
+<SubTexture name="dave_digo asustado0002" x="471" y="0" width="236" height="363" frameX="0" frameY="-1" frameWidth="236" frameHeight="364" />
+<SubTexture name="dave_digo asustado0003" x="707" y="0" width="234" height="363" frameX="0" frameY="-1" frameWidth="236" frameHeight="364" />
+<SubTexture name="dave_digo dave fun 3d0000" x="0" y="364" width="256" height="342" frameX="-26" frameY="0" frameWidth="306" frameHeight="342" />
+<SubTexture name="dave_digo dave 3d0000" x="256" y="364" width="306" height="342" frameX="0" frameY="0" frameWidth="306" frameHeight="342" />
+<SubTexture name="dave_digo listo0000" x="0" y="706" width="188" height="290" frameX="0" frameY="0" frameWidth="188" frameHeight="290" />
+<SubTexture name="dave_digo que0000" x="188" y="706" width="187" height="290" frameX="0" frameY="0" frameWidth="187" frameHeight="290" />
+<SubTexture name="dave_digo fun asustado0000" x="562" y="364" width="226" height="326" frameX="0" frameY="0" frameWidth="226" frameHeight="326" />
+<SubTexture name="dave_digo fun0000" x="941" y="0" width="226" height="326" frameX="0" frameY="0" frameWidth="226" frameHeight="326" />
+<SubTexture name="dave_digo fun que0000" x="941" y="326" width="226" height="326" frameX="0" frameY="0" frameWidth="226" frameHeight="326" />
+<SubTexture name="dave_digo esa cosa0000" x="375" y="706" width="247" height="290" frameX="0" frameY="0" frameWidth="247" frameHeight="290" />
+<SubTexture name="dave_digo dave normal0000" x="622" y="706" width="188" height="290" frameX="0" frameY="0" frameWidth="188" frameHeight="290" />
+<SubTexture name="dave_digo dave telefono0000" x="0" y="996" width="377" height="264" frameX="-37" frameY="-86" frameWidth="414" frameHeight="350" />
+<SubTexture name="dave_digo dave serio0000" x="810" y="706" width="196" height="290" frameX="0" frameY="0" frameWidth="196" frameHeight="290" />
+<SubTexture name="dave_digo dave oh no0000" x="1167" y="0" width="247" height="290" frameX="0" frameY="0" frameWidth="247" frameHeight="290" />
+<SubTexture name="dave_digo dave AAAAAAHHHHhh0000" x="1167" y="290" width="188" height="290" frameX="0" frameY="0" frameWidth="188" frameHeight="290" />
+</TextureAtlas>

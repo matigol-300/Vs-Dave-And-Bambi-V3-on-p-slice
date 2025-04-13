@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		180,
+		130
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "tristan_digo normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "tristan_digo normal",
+			"anim": "normal",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "tristan_digo fun",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "tristan_digo fun",
+			"anim": "fun",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "tristan_digo que",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "tristan_digo que",
+			"anim": "que",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "tristan_digo triste",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "tristan_digo triste",
+			"anim": "triste",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "tristan_digo"
+}

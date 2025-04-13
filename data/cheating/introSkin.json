@@ -1,0 +1,8 @@
+{
+"counter": "bambi",
+"counterSounds": "bambi",
+"counterSize": 1.3,
+"counterFadeTime": 0.5,
+"counterFadeEase": "CircInOut",
+"counterAntialiasing": false
+}

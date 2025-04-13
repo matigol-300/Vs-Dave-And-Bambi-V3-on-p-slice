@@ -1,0 +1,157 @@
+{
+	"objects": [
+		{
+			"x": -1144,
+			"y": -261,
+			"scale": [
+				1.25,
+				1
+			],
+			"image": "bg/sky/sky",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "fondo",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.7,
+				0.7
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -882,
+			"y": -158,
+			"scale": [
+				1.1,
+				1.1
+			],
+			"image": "bg/dave_house/hills",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "montanas",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.8,
+				0.8
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -1326,
+			"y": 579,
+			"scale": [
+				1,
+				1
+			],
+			"image": "bg/dave_house/grass bg",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "pasto_fondo",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.9,
+				0.9
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -832,
+			"y": 356,
+			"scale": [
+				1.1,
+				1.1
+			],
+			"image": "bg/dave_house/gate",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "gate",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.9,
+				0.9
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -918,
+			"y": 640,
+			"scale": [
+				1,
+				1
+			],
+			"image": "bg/dave_house/grass",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "pasto",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_opponent": [
+		0,
+		-50
+	],
+	"girlfriend": [
+		356,
+		47
+	],
+	"_editorMeta": {
+		"boyfriend": "bf",
+		"gf": "gf",
+		"dad": "dave"
+	},
+	"camera_girlfriend": [
+		0,
+		-100
+	],
+	"boyfriend": [
+		912,
+		82
+	],
+	"opponent": [
+		30,
+		67
+	],
+	"hide_girlfriend": false,
+	"directory": "",
+	"camera_speed": 2,
+	"defaultZoom": 0.7,
+	"stageUI": "normal",
+	"camera_boyfriend": [
+		0,
+		-100
+	]
+}

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bambi_digo.png">
+<SubTexture name="bambi_digo enojado0000" x="231" y="0" width="231" height="264" frameX="0" frameY="0" frameWidth="231" frameHeight="264" />
+<SubTexture name="bambi_digo broma0000" x="452" y="265" width="222" height="227" frameX="-3" frameY="-37" frameWidth="231" frameHeight="264" />
+<SubTexture name="bambi_digo broma enojado0000" x="231" y="265" width="221" height="248" frameX="-4" frameY="-16" frameWidth="231" frameHeight="264" />
+<SubTexture name="bambi_digo normal0000" x="462" y="0" width="231" height="264" frameX="0" frameY="0" frameWidth="231" frameHeight="264" />
+<SubTexture name="bambi_digo largo0000" x="0" y="0" width="231" height="265" frameX="0" frameY="0" frameWidth="231" frameHeight="265" />
+<SubTexture name="bambi_digo nose0000" x="0" y="265" width="231" height="264" frameX="0" frameY="0" frameWidth="231" frameHeight="264" />
+</TextureAtlas>

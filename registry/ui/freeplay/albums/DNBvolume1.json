@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "name": "DNB Volume 1",
+  "artists": ["MoldyGH"],
+  "albumArtAsset": "freeplay/album/DNBVol1",
+  "albumTitleAsset": "freeplay/text/DNB_volume_1_text"
+}

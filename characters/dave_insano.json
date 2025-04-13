@@ -1,0 +1,71 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle instance"
+		},
+		{
+			"offsets": [18, -5],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left instance"
+		},
+		{
+			"offsets": [11, 7],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down instance"
+		},
+		{
+			"offsets": [-16, 22],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up instance"
+		},
+		{
+			"offsets": [-29, 3],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right instance"
+		},
+		{
+			"offsets": [-21, -1],
+			"loop": true,
+			"fps": 24,
+			"anim": "miedo",
+			"indices": [],
+			"name": "scared instance"
+		},
+		{
+			"offsets": [41, 9],
+			"loop": false,
+			"fps": 24,
+			"anim": "que",
+			"indices": [],
+			"name": "um instance"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/dave/dave_insano",
+	"position": [-30, 180],
+	"healthicon": "dave-annoyed",
+	"flip_x": false,
+	"healthbar_colors": [15, 95, 255],
+	"camera_position": [-40, 40],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,31 @@
+[
+	{
+		"save": "warmup",
+		"name": "was that the tutorial?",
+		"description": "complete warmup with 100% accuracy"				
+	},
+	{		
+		"save": "dave",
+		"name": "Dave was totally outmatched.",
+		"description": "Get a higher score than Dave 27 in Dave's Week"
+		"maxScore": 3,
+		"maxDecimals": 0,		
+	},
+	{
+		"save": "rtx",
+		"name": "the future is today!!!",
+		"description": "Get the RTX ending (Dave's week)"		
+	},
+	{			
+		"save": "bambi",
+		"name": "Bambi is left without a cell phone",
+		"description": "Get a higher score than Dave 27 in Bambi's Week"
+		"maxScore": 3,
+		"maxDecimals": 0,		
+	},
+	{	
+		"save": "cheating",
+		"name": "you are a real cheater...",
+		"description": "play the cheating song without the modChart"		
+	}
+]

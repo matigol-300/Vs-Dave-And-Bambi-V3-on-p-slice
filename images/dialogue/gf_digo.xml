@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gf_digo.png">
+<SubTexture name="gf_digo vamos0000" x="0" y="0" width="238" height="259" frameX="-231" frameY="-11" frameWidth="480" frameHeight="270" />
+<SubTexture name="gf_digo confudida0000" x="238" y="0" width="235" height="246" frameX="-239" frameY="-24" frameWidth="480" frameHeight="270" />
+<SubTexture name="gf_digo normal0000" x="473" y="0" width="235" height="246" frameX="-239" frameY="-24" frameWidth="480" frameHeight="270" />
+<SubTexture name="gf_digo que0000" x="0" y="259" width="235" height="246" frameX="-239" frameY="-24" frameWidth="480" frameHeight="270" />
+</TextureAtlas>

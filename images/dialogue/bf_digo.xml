@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf_digo.png">
+<SubTexture name="bf_digo nose0000" x="0" y="0" width="240" height="240" frameX="-238" frameY="-30" frameWidth="480" frameHeight="270" />
+<SubTexture name="bf_digo normal0000" x="240" y="0" width="240" height="240" frameX="-238" frameY="-30" frameWidth="480" frameHeight="270" />
+<SubTexture name="bf_digo enojado0000" x="0" y="240" width="240" height="240" frameX="-238" frameY="-30" frameWidth="480" frameHeight="270" />
+<SubTexture name="bf_digo serio0000" x="240" y="240" width="240" height="240" frameX="-238" frameY="-30" frameWidth="480" frameHeight="270" />
+</TextureAtlas>

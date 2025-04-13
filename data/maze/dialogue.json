@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"sound": "bambDialogue1",
+			"speed": 0.05,
+			"portrait": "bambi_digo",
+			"boxState": "normal",
+			"expression": "nose",
+			"text": "My phone..."
+		},
+		{
+			"sound": "bambDialogue1",
+			"speed": 0.05,
+			"portrait": "bambi_digo",
+			"boxState": "normal",
+			"expression": "nose",
+			"text": "Look what you two did!"
+		},
+		{
+			"sound": "bambDialogue1",
+			"speed": 0.03,
+			"portrait": "bambi_digo",
+			"boxState": "normal",
+			"expression": "enojado",
+			"text": "You don't know what you guys just got me into!!"
+		},
+		{
+			"sound": "bambDialogue1",
+			"speed": 0.05,
+			"portrait": "bambi_digo",
+			"boxState": "angry",
+			"expression": "enojado",
+			"text": "You both are gonna die!"
+		},
+		{
+			"sound": "gfDialogue",
+			"speed": 0.04,
+			"portrait": "gf_digo",
+			"boxState": "normal",
+			"expression": "que",
+			"text": "I don't think you would wanna try that."
+		},
+		{
+			"sound": "bambDialogue1",
+			"speed": 0.05,
+			"portrait": "bambi_digo",
+			"boxState": "normal",
+			"expression": "enojado",
+			"text": "That's it.. That is it!"
+		},
+		{
+			"sound": "bambDialogue1",
+			"speed": 0.05,
+			"portrait": "bambi_digo",
+			"boxState": "normal",
+			"expression": "nose",
+			"text": "One more song... If you win, I-I, uhh.."
+		},
+		{
+			"sound": "bambDialogue1",
+			"speed": 0.05,
+			"portrait": "bambi_digo",
+			"boxState": "normal",
+			"expression": "nose",
+			"text": "I think I'm gonna go to bed after this.."
+		},
+		{
+			"sound": "gfDialogue",
+			"speed": 0.05,
+			"portrait": "gf_digo",
+			"boxState": "normal",
+			"expression": "que",
+			"text": "I assume yelling for like 6 minutes straight gets very exhausting."
+		},
+		{
+			"sound": "bambDialogue1",
+			"speed": 0.05,
+			"portrait": "bambi_digo",
+			"boxState": "normal",
+			"expression": "enojado",
+			"text": "It does not!"
+		}
+	]
+}

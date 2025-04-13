@@ -1,0 +1,10 @@
+{
+"cartelSkin": "cheating",
+"cartelAntialiasing": true,
+"cartelY": 100,
+"isAnimated": true,
+"nameAnim": "Cheating",
+"frameAnim": 25,
+"songCreator": "MoldyGH",
+"TextFont": "vcr.ttf"
+}

@@ -1,0 +1,45 @@
+{
+	"storyName": "Dave's Fun Rapping battle!",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "dave",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"house",
+			"dave",
+			[
+				15,
+				95,
+				255
+			]
+		],
+		[
+			"insanity",
+			"dave-annoyed",
+			[
+				15,
+				95,
+				255
+			]
+		],
+		[
+			"polygonized",
+			"dave-3d",
+			[
+				255,
+				60,
+				60
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": false,
+	"hiddenUntilUnlocked": false,
+	"weekName": "Week Dave"
+}

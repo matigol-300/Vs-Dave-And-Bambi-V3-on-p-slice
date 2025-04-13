@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		-60,
+		140
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "gf_digo norma",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "gf_digo norma",
+			"anim": "normal",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "gf_digo que",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "gf_digo que",
+			"anim": "que",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "gf_digo confudi",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "gf_digo confudi",
+			"anim": "confudi",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "gf_digo vamos",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "gf_digo vamos",
+			"anim": "vamos",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "gf_digo"
+}

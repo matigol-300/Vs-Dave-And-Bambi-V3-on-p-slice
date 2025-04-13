@@ -1,0 +1,336 @@
+{
+	"camera_boyfriend": [
+		0,
+		-50
+	],
+	"_editorMeta": {
+		"boyfriend": "bf",
+		"gf": "gf",
+		"dad": "bambi"
+	},
+	"girlfriend": [
+		369,
+		137
+	],
+	"stageUI": "normal",
+	"boyfriend": [
+		903,
+		143
+	],
+	"defaultZoom": 0.7,
+	"objects": [
+		{
+			"x": -592,
+			"y": -248,
+			"scale": [
+				1,
+				1
+			],
+			"image": "bg/sky/sky",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "fondo",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.6,
+				0.6
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -2,
+			"y": 3,
+			"scale": [
+				0.7,
+				0.7
+			],
+			"image": "bg/farm/gm_flatgrass",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "GM",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.7,
+				0.7
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -711,
+			"y": 132,
+			"scale": [
+				1.5,
+				1
+			],
+			"image": "bg/farm/orangey hills",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "paja",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.8,
+				0.8
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 54,
+			"y": 207,
+			"scale": [
+				1.1,
+				1.1
+			],
+			"image": "bg/farm/funfarmhouse",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "casa",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.9,
+				0.9
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -739,
+			"y": 629,
+			"scale": [
+				1,
+				1
+			],
+			"image": "bg/farm/grass lands",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "piso",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 1028,
+			"y": 157,
+			"scale": [
+				1.2,
+				1.2
+			],
+			"image": "bg/farm/cornFence",
+			"flipX": true,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "maiz_2",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -727,
+			"y": 142,
+			"scale": [
+				1.2,
+				1.2
+			],
+			"image": "bg/farm/cornFence",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "maiz_1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -238,
+			"y": 348,
+			"scale": [
+				1.2,
+				1.2
+			],
+			"image": "bg/farm/sign",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "cartel_bambi",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -142,
+			"y": 287,
+			"scale": [
+				1,
+				1
+			],
+			"image": "bg/farm/background_characters",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "dave_y_bambi",
+			"firstAnimation": "dave_bruh",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 0,
+			"animations": [
+				{
+					"offsets": [
+						0,
+						0
+					],
+					"loop": false,
+					"fps": 24,
+					"anim": "dave_bruh",
+					"indices": [],
+					"name": "bruh"
+				},
+				{
+					"offsets": [
+						17,
+						0
+					],
+					"loop": false,
+					"fps": 24,
+					"anim": "dave_happy",
+					"indices": [],
+					"name": "happy"
+				},
+				{
+					"offsets": [
+						-50,
+						-254
+					],
+					"loop": false,
+					"fps": 24,
+					"anim": "bambi_corn",
+					"indices": [],
+					"name": "splitathon corn"
+				},
+				{
+					"offsets": [
+						-52,
+						-262
+					],
+					"loop": false,
+					"fps": 24,
+					"anim": "bambi_idle",
+					"indices": [],
+					"name": "splitathon idle"
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"x": 1147,
+			"y": 727,
+			"scale": [
+				1.2,
+				1.1
+			],
+			"image": "bg/farm/picnic_towel_thing",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "picni",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 0,
+			"type": "sprite"
+		},
+		{
+			"x": 1294,
+			"y": 597,
+			"scale": [
+				1.2,
+				1.2
+			],
+			"image": "bg/farm/cornbag",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "bolsa",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"opponent": [
+		127,
+		134
+	],
+	"directory": "",
+	"camera_speed": 2,
+	"hide_girlfriend": false,
+	"camera_opponent": [
+		0,
+		-50
+	]
+}
