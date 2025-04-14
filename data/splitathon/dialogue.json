@@ -1,0 +1,180 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "tupapa",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "We continue with the group sitting outside and socializing."
+		},
+		{
+			"sound": "daveDialogue",
+			"speed": 0.05,
+			"portrait": "dave_digo",
+			"boxState": "normal",
+			"expression": "dave AH",
+			"text": "Hey, uhh, BF is it?"
+		},
+		{
+			"sound": "bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf_digo",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Bo?"
+		},
+		{
+			"sound": "daveDialogue",
+			"speed": 0.04,
+			"portrait": "dave_digo",
+			"boxState": "normal",
+			"expression": "dave AH",
+			"text": "I feel like we never really settled it the last time we fought.."
+		},
+		{
+			"sound": "bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf_digo",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Bop?"
+		},
+		{
+			"sound": "gfDialogue",
+			"speed": 0.05,
+			"portrait": "gf_digo",
+			"boxState": "normal",
+			"expression": "que",
+			"text": "Settled what?"
+		},
+		{
+			"sound": "daveDialogue",
+			"speed": 0.04,
+			"portrait": "dave_digo",
+			"boxState": "normal",
+			"expression": "dave AH",
+			"text": "We haven't really settled on who is better at the whole singing thing."
+		},
+		{
+			"sound": "bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf_digo",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Boh."
+		},
+		{
+			"sound": "gfDialogue",
+			"speed": 0.04,
+			"portrait": "gf_digo",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Well I can get some stuff arranged real quick if you really want to know."
+		},
+		{
+			"sound": "daveDialogue",
+			"speed": 0.05,
+			"portrait": "dave_digo",
+			"boxState": "normal",
+			"expression": "dave AH",
+			"text": "Well if that's the case.."
+		},
+		{
+			"sound": "daveDialogue",
+			"speed": 0.04,
+			"portrait": "dave_digo",
+			"boxState": "normal",
+			"expression": "dave AH",
+			"text": "GF, put on the longest instrumental you have!"
+		},
+		{
+			"sound": "gfDialogue",
+			"speed": 0.04,
+			"portrait": "gf_digo",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Alright then.. Best I can do is ten minutes."
+		},
+		{
+			"sound": "daveDialogue",
+			"speed": 0.04,
+			"portrait": "dave_digo",
+			"boxState": "normal",
+			"expression": "dave AH",
+			"text": "Well how's about a ten minute showdown BF!"
+		},
+		{
+			"sound": "bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf_digo",
+			"boxState": "normal",
+			"expression": "enojado",
+			"text": "Yeah!"
+		},
+		{
+			"sound": "daveDialogue",
+			"speed": 0.05,
+			"portrait": "dave_digo",
+			"boxState": "normal",
+			"expression": "dave AH",
+			"text": "Whoever outlasts the other will be proven the better rapper."
+		},
+		{
+			"sound": "bambDialogue1",
+			"speed": 0.05,
+			"portrait": "bambi_digo",
+			"boxState": "normal",
+			"expression": "largo",
+			"text": "What about me?"
+		},
+		{
+			"sound": "daveDialogue",
+			"speed": 0.05,
+			"portrait": "dave_digo",
+			"boxState": "normal",
+			"expression": "dave serio",
+			"text": "Bambi, this doesn't involve you.."
+		},
+		{
+			"sound": "bambDialogue1",
+			"speed": 0.295,
+			"portrait": "bambi_digo",
+			"boxState": "normal",
+			"expression": "largo",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tupapa",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bambi looks angered but sits down and spectates."
+		},
+		{
+			"sound": "bambDialogue1",
+			"speed": 0.05,
+			"portrait": "bambi_digo",
+			"boxState": "normal",
+			"expression": "largo",
+			"text": "Fine."
+		},
+		{
+			"sound": "daveDialogue",
+			"speed": 0.05,
+			"portrait": "dave_digo",
+			"boxState": "normal",
+			"expression": "dave AH",
+			"text": "Alright, let's settle this!"
+		},
+		{
+			"sound": "bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf_digo",
+			"boxState": "normal",
+			"expression": "enojado",
+			"text": "Beep bo bop!"
+		}
+	]
+}

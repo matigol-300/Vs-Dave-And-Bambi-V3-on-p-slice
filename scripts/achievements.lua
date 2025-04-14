@@ -4,7 +4,8 @@ if misses == 0 then
 if week == 'dave' then
 playSound('higher_score')
 addAchievementScore('dave', 1)
-elseif week == 'bambi' then
+end
+if week == 'bambi' then
 playSound('higher_score')
 addAchievementScore('bambi', 1)
 end

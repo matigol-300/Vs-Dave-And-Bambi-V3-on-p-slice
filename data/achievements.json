@@ -24,6 +24,16 @@
 		"maxDecimals": 0,		
 	},
 	{	
+		"save": "dave_Splitathon",
+		"name": "That was a challenge!!!",
+		"description": "Complete the first part of Dave's splitathon with fewer than 10 misses."		
+	},
+	{				
+		"save": "Bambi_Splitathon",
+		"name": "Moldy is dead!!!",
+		"description": "Complete the toughest part of Bambi in Splitathon with fewer than 20 misses."		
+	},
+	{				
 		"save": "cheating",
 		"name": "you are a real cheater...",
 		"description": "play the cheating song without the modChart"		
