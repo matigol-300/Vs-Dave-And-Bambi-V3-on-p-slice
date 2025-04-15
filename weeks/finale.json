@@ -1,0 +1,27 @@
+{
+	"storyName": "The finale",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "sp",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Splitathon",
+			"the-duo",
+			[
+				0,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Week finale",
+	"hiddenUntilUnlocked": false
+}

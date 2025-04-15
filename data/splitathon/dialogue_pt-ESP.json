@@ -1,0 +1,180 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Continuamos con el grupo sentado afuera y socializando.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "tupapa"
+		},
+		{
+			"expression": "dave AH",
+			"text": "Hey, ehh, BF, ¿cierto?",
+			"boxState": "normal",
+			"sound": "daveDialogue",
+			"speed": 0.05,
+			"portrait": "dave_digo"
+		},
+		{
+			"expression": "normal",
+			"text": "¿Bo?",
+			"boxState": "normal",
+			"sound": "bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf_digo"
+		},
+		{
+			"expression": "dave AH",
+			"text": "Siento que no lo definimos la ultima vez que peleamos...",
+			"boxState": "normal",
+			"sound": "daveDialogue",
+			"speed": 0.04,
+			"portrait": "dave_digo"
+		},
+		{
+			"expression": "normal",
+			"text": "¿Bop?",
+			"boxState": "normal",
+			"sound": "bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf_digo"
+		},
+		{
+			"expression": "que",
+			"text": "¿Definimos que?",
+			"boxState": "normal",
+			"sound": "gfDialogue",
+			"speed": 0.05,
+			"portrait": "gf_digo"
+		},
+		{
+			"expression": "dave AH",
+			"text": "No hemos definido quien es bueno en todo esto del canto.",
+			"boxState": "normal",
+			"sound": "daveDialogue",
+			"speed": 0.04,
+			"portrait": "dave_digo"
+		},
+		{
+			"expression": "normal",
+			"text": "Boh.",
+			"boxState": "normal",
+			"sound": "bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf_digo"
+		},
+		{
+			"expression": "normal",
+			"text": "Bueno podría rápidamente arreglar un poco si realmente lo quieres saber.",
+			"boxState": "normal",
+			"sound": "gfDialogue",
+			"speed": 0.04,
+			"portrait": "gf_digo"
+		},
+		{
+			"expression": "dave AH",
+			"text": "si ese es el caso...",
+			"boxState": "normal",
+			"sound": "daveDialogue",
+			"speed": 0.05,
+			"portrait": "dave_digo"
+		},
+		{
+			"expression": "dave AH",
+			"text": "¡pon el instrumental mas largo que tengas!",
+			"boxState": "normal",
+			"sound": "daveDialogue",
+			"speed": 0.04,
+			"portrait": "dave_digo"
+		},
+		{
+			"expression": "normal",
+			"text": "Esta bien... lo mejor que puedo hacer son 10 minutos.",
+			"boxState": "normal",
+			"sound": "gfDialogue",
+			"speed": 0.04,
+			"portrait": "gf_digo"
+		},
+		{
+			"expression": "dave AH",
+			"text": "Bueno, ¿Te parece un duelo de diez minutos, BF?",
+			"boxState": "normal",
+			"sound": "daveDialogue",
+			"speed": 0.04,
+			"portrait": "dave_digo"
+		},
+		{
+			"expression": "enojado",
+			"text": "¡Yeah!",
+			"boxState": "normal",
+			"sound": "bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf_digo"
+		},
+		{
+			"expression": "dave AH",
+			"text": "Quien sobrepase al otro se podrá considerar como un mejor rapero.",
+			"boxState": "normal",
+			"sound": "daveDialogue",
+			"speed": 0.05,
+			"portrait": "dave_digo"
+		},
+		{
+			"expression": "largo",
+			"text": "¿Y que hay de mí?",
+			"boxState": "normal",
+			"sound": "bambDialogue1",
+			"speed": 0.05,
+			"portrait": "bambi_digo"
+		},
+		{
+			"expression": "dave serio",
+			"text": "esto no es de tu incumbencia...",
+			"boxState": "normal",
+			"sound": "daveDialogue",
+			"speed": 0.05,
+			"portrait": "dave_digo"
+		},
+		{
+			"expression": "largo",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "bambDialogue1",
+			"speed": 0.295,
+			"portrait": "bambi_digo"
+		},
+		{
+			"expression": "talk",
+			"text": "Bambi se ve enojado pero se sienta y mira.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tupapa"
+		},
+		{
+			"expression": "largo",
+			"text": "Bien.",
+			"boxState": "normal",
+			"sound": "bambDialogue1",
+			"speed": 0.05,
+			"portrait": "bambi_digo"
+		},
+		{
+			"expression": "dave AH",
+			"text": "¡Empezemos esto!",
+			"boxState": "normal",
+			"sound": "daveDialogue",
+			"speed": 0.05,
+			"portrait": "dave_digo"
+		},
+		{
+			"expression": "enojado",
+			"text": "¡Beep bo bop!",
+			"boxState": "normal",
+			"sound": "bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf_digo"
+		}
+	]
+}

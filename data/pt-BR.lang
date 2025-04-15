@@ -1,0 +1,256 @@
+Português (DNB)
+
+// Gameplay
+score_text: "Pontos: {1} | Erros: {2} | Precisão: {3}"
+score_text_instakill: "Pontos: {1} | Precisão: {2}"
+botplay: "Automático"
+
+rating_you_suck: "VOCÊ É PÉSSIMO!"
+rating_shit: "Merda"
+rating_bad: "Mal"
+rating_bruh: "Bruh"
+rating_meh: "Meh"
+rating_nice: "Decente"
+rating_good: "Bom"
+rating_great: "Ótimo"
+rating_sick: "Da Hora!"
+rating_perfect: "Perfeito!!"
+
+// Dialogues
+dialogue_skip: "Presione BACK para Pular"
+
+// Pause Menu
+pause_resume: "Continuar"
+pause_restart_song: "Reiníciar Música"
+pause_leave_charting_mode: "Saír do Modo de Charting"
+pause_skip_time: "Tempo da música"
+pause_end_song: "Terminar Música"
+pause_change_difficulty: "Mudar Dificuldade"
+pause_toggle_practice_mode: "Ativar Modo de Práctica"
+pause_toggle_botplay: "Ativar Modo Automático"
+pause_options: "Opções"
+pause_exit_to_menu: "Sair para o Menu"
+pause_back: "Voltar"
+practice_mode: "Modo Práctica"
+charting_mode: "Modo Chart"
+blueballed: "Mortes: {1}"
+
+// Story Mode
+week_score: "PONTUAÇÃO: {1}"
+storyname_tuto: "Aulas de rap divertidas de Dave!"
+storyname_dave: "A divertida batalha de rap contra Dave!"
+storyname_bambi: "O divertido labirinto do SR. Bambi!"
+storyname_finale: "o fim"
+
+// Freeplay
+personal_best: "MELHOR PONTUAÇÃO: {1} ({2}%)"
+freeplay_tip: "Pressione SPACE para escutar a Música / Pressione CTRL para abrir o Menu de Modificadores / Pressione RESET para apagar a sua pontuação."
+
+musicplayer_playing: "MÚSICA: {1}"
+musicplayer_paused: "MÚSICA: {1} (PAUSADA)"
+musicplayer_tip: "Pressione SPACE para Pausar / Pressione ESC para Sair / Pressione R para Reiniciar a Música"
+
+// Mods Menu
+no_mods_installed: "NÃO HÁ MODS INSTALADOS\nPRESSIONE BACK PARA SAIR E BAIXAR UM MOD"
+no_mods_found: "Sem Mods Encontrados."
+mods_leave: "Presiona {1} para sair"
+mod_restart: "* Ativar ou Mudar o Mod reiniciará o jogo."
+reload_button: "RECARREGAR"
+enable_all_button: "ATIVAR TUDO"
+disable_all_button: "APAGAR TUDO"
+
+// Reset Score/Achievement
+reset_score: "Reiniciar a Pontuação de"
+reset_achievement: "Reiniciar a Conquista:"
+yes: "Sim"
+no: "Não"
+
+// Achievements
+achievement_warmup: "Esse foi o tutorial?"
+description_warmup: "Termine a música Warmup com uma Precisão de 100%"
+achievement_dave: "Dave foi totalmente derrotado."
+description_dave: "Ganhe todas as músicas da semana do Dave sem errar"
+achievement_rtx: "O futuro é hoje!!!"
+description_rtx: "Conségue o final RTX na semana do Dave"
+achievement_bambi: "Bambi ficou sem celular!!!"
+description_bambi: "Ganha todas as músicas da semana do Bambi sem errar"
+achievement_dave_Splitathon: "Isso sim foi um desafio!"
+description_dave_Splitathon: "Complete a primeira parte do splitathon de Dave com menos de 10 erros."
+achievement_Bambi_Splitathon: "¡Moldy estas muerto!"
+description_Bambi_Splitathon: "Moldy, você está morto!"
+achievement_cheating: "É um verdadeiro trapaceiro..."
+description_cheating: "Joga a música cheating sem o modChart (sem a mecânica)"
+
+// Options
+options_note_colors: "Cores das Setas"
+options_controls: "Controles"
+options_adjust_delay_and_combo: "Ajustar Atraso e Combo"
+options_gameplay: "Gameplay"
+options_visuals: "Visuais"
+options_graphics: "Gráficos"
+options_language: "Idioma"
+
+graphics_menu: "Configurações Gráficas"
+visuals_menu: "Opções Visuais"
+gameplay_menu: "Configurações de Gameplay"
+
+// Note Colors Menu
+note_colors_tip: "Pressione RESET para reiniciar a parte selecionada da Seta."
+note_colors_hold_tip: "Mantenha {1} e Pressione RESET para reiniciar completamente a Seta selecionada."
+note_colors_shift: "Shift"
+note_colors_lb: "Botão do Ombro Esquerdo"
+
+// Adjust Delay and Combo Menu
+delay_beat_hit: "Batida!"
+delay_current_offset: "Atraso: {1} ms";
+combo_rating_offset: "Offset de Classificação:"
+combo_numbers_offset: "Offset de Números:"
+combo_offset: "Offset de Combo";
+note_delay: "Atraso de Notas";
+switch_on_accept: "(Pressione Accept para Trocar)"
+switch_on_start: "(Pressione Start para Trocar)"
+
+// Controls Menu
+keygroup_notes: "NOTAS"
+keygroup_ui: "MENUS"
+keygroup_volume: "VOLUME"
+keygroup_debug: "DEBUG"
+
+key_note_left: "Esq."
+key_note_down: "Baixo"
+key_note_up: "Cima"
+key_note_right: "Dir."
+key_ui_left: "Esq."
+key_ui_down: "Baixo"
+key_ui_up: "Cima"
+key_ui_right: "Dir."
+key_reset: "Reset"
+key_accept: "Aceitar"
+key_back: "Voltar"
+key_pause: "Pausa"
+key_volume_mute: "Mutar"
+key_volume_up: "Mais"
+key_volume_down: "Menos"
+key_debug_1: "Botão 1"
+key_debug_2: "Botão 2"
+
+controls_rebinding: "Trocando {1}"
+controls_rebinding2: "Mantenha ESC para Cancelar\nBackspace para Limpar"
+reset_to_default_keys: "Resetar para o padrão"
+
+// Gameplay Changers
+setting_scroll_type: "Tipo de Scroll"
+setting_scroll_type-multiplicative: "Multiplicativo"
+setting_scroll_type-constant: "Constante"
+setting_scroll_speed: "Velocidade de Scroll"
+setting_playback_rate: "Aceleração da Música"
+setting_health_gain_multiplier: "Mult. de Vida Ganha"
+setting_health_loss_multiplier: "Mult. de Vida Perdida"
+setting_instakill_on_miss: "Morrer ao Errar"
+setting_practice_mode: "Modo Práctica"
+setting_botplay: "Modo Automático"
+
+// Graphics Settings
+setting_low_quality: "Baixa Qualidade"
+description_low_quality: "Se marcado, desativa alguns elementos de fundo,\nreduz o tempo de carga e melhora o performance."
+setting_anti-aliasing: "Anti-Aliasing"
+description_anti-aliasing: "Se desmarcado, desativa o anti-aliasing, melhorando o rendimiento a custo de gráficos menos suaves."
+setting_shaders: "Shaders"
+description_shaders: "Se desmarcado, desativa os shaders.\nSão usados para efectos especiais e são intensas para CPUs fracas."
+setting_gpu_caching: "Cache na GPU"
+description_gpu_caching: "Se marcado, permite que a GPU seja usada para armazenar texturas, reduzindo uso da memória RAM.\nNão ligue isso se sua Placa de Vídeo é ruim."
+setting_framerate: "Taxa de Atualização"
+description_framerate: "Também chamado de "Framerate", preciso explicar?"
+
+// Visuals Settings
+setting_note_skins: "Estilo de Notas"
+setting_note_skins-default: "Padrão"
+setting_note_skins-funky: "Funky"
+setting_note_skins-square: "Quadrado"
+setting_note_skins-pixel: "Pixelado"
+setting_note_skins-bfshape: "Forma de BF"
+setting_note_skins-bfshape: "Forma de BF"
+setting_combo_font: "Fonte de Combo"
+setting_combo_font-comic: "Cómic"
+setting_combo_font-bf: "BF"
+setting_combo_font-pixel: "Pixelado"
+setting_note_color: "Cor de Nota"
+setting_combo_color: "Cor de Combo"
+setting_healthbar_color: "Cor de Barra de Saúde"
+setting_bg_alpha: "Opacidade do Fundo"
+setting_combo_thickness: "Grossura de Combo"
+setting_hitbox_shrink: "Reduzir Hitbox"
+
+// Gameplay Settings
+setting_health_loss_on_hit: "Perda de Vida ao Acertar"
+setting_health_gain_on_miss: "Ganho de Vida ao Errar"
+setting_score_based_on_accuracy: "Pontuação Baseada na Precisão"
+setting_show_accuracy: "Mostrar Precisão"
+setting_show_bpm: "Mostrar BPM"
+setting_show_rating: "Mostrar Classificação"
+setting_show_health: "Mostrar Vida"
+setting_show_combo: "Mostrar Combo"
+
+// Language Menu
+language_menu: "Configuração de Idioma"
+language_change_warning: "Mudar o idioma precisará reiniciar o jogo!"
+language_restart_now: "Reiniciar agora?"
+language_restart_later: "Reiniciar mais tarde"
+language_english: "Ingles"
+language_spanish: "Espanhol"
+language_french: "Francês"
+language_german: "Alemão"
+language_portuguese: "Portugués"
+language_japanese: "Japonês"
+
+// Confirmation Dialogs
+confirmation_yes: "Sim"
+confirmation_no: "Não"
+confirmation_okay: "Aceitar"
+confirmation_cancel: "Cancelar"
+
+// General Messages
+general_loading: "Carregando..."
+general_saving: "Salvando..."
+general_error: "Erros: {1}"
+general_complete: "Completo"
+general_done: "Pronto"
+general_warning: "Aviso"
+general_error_occurred: "Ocorreu um error."
+general_no_files: "Não se encontrarão arquivos."
+general_file_saved: "Arquivo guardado corretamente."
+general_invalid_input: "Entrada inválida."
+general_press_any_key: "Pressione qualquer tecla para continuar."
+
+// Game Over Screen
+game_over_retry: "Tentar de novo"
+game_over_exit: "Sair"
+
+// In-Game HUD
+hud_score: "Pontuação: {1}"
+hud_misses: "Erros: {1}"
+hud_accuracy: "Precisão: {1}%"
+hud_combo: "Combo: {1}"
+hud_health: "Vida: {1}%"
+hud_bpm: "BPM: {1}"
+hud_time: "Tempo: {1}"
+
+// Completion Screen
+completion_song_clear: "Música completa!"
+completion_score: "Puntuação: {1}"
+completion_misses: "Erros: {1}"
+completion_accuracy: "Precisão: {1}%"
+completion_combo: "Combo mais alto: {1}"
+completion_rating: "Classificação: {1}"
+
+// Miscellaneous
+misc_continue: "Continuar"
+misc_back: "Voltar"
+misc_next: "Próximo"
+misc_previous: "Anterior"
+misc_start: "Começãr"
+misc_skip: "Pular"
+misc_pause: "Pausa"
+misc_resume: "Continuar"
+misc_restart: "Reiniciar"
+misc_exit: "Sair"

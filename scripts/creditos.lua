@@ -1,5 +1,5 @@
 --script by Dave 27
-local creditsText = nil
+local creditsText = 'Song by '
 function readJson(file)
 return callMethodFromClass('tjson.TJSON', 'parse', {getTextFromFile(file..'.json')})
 end
@@ -19,10 +19,11 @@ end
 function onCreatePost()
 if getPropertyFromClass('backend.ClientPrefs', 'data.language') == 'pt-ESP' then
 creditsText = 'Cancion por '
-else
-creditsText = 'Song by '
 end
-makeLuaText('por', creditsText..creadorJson, 0, 0, 105)
+if getPropertyFromClass('backend.ClientPrefs', 'data.language') == 'pt-BR' then
+creditsText = 'Canção de '
+end
+makeLuaText('por', creditsText..creadorJson, 0, 0, 100)
 setObjectCamera('por', 'camOther')
 setTextFont('por', textFontJson)
 setTextSize('por', 25)

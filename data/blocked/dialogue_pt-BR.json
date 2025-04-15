@@ -1,0 +1,108 @@
+{
+	"dialogue": [
+		{
+			"sound": "gfDialogue",
+			"speed": 0.035,
+			"portrait": "gf_digo",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Foi bom do Dave ter nos levado para essa fazenda para fazer um piquenique."
+		},
+		{
+			"sound": "gfDialogue",
+			"speed": 0.035,
+			"portrait": "gf_digo",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "E eu digo isso até porque ele quase nos matou com aquela coisa toda de 3D."
+		},
+		{
+			"sound": "bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf_digo",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Skibbidy."
+		},
+		{
+			"sound": "gfDialogue",
+			"speed": 0.05,
+			"portrait": "gf_digo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Eu tenho certeza que nenhum fazendeiro anão com nenhum pingo de paciência venha nos atrapalhar!"
+		},
+		{
+			"sound": "gfDialogue",
+			"speed": 0.05,
+			"portrait": "gf_digo",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Principalmente um que esteja com a presunção que estamos roubando o milho dele..."
+		},
+		{
+			"sound": "bambDialogue1",
+			"speed": 0.05,
+			"portrait": "bambi_digo",
+			"boxState": "normal",
+			"expression": "enojado",
+			"text": "Quem tá aí??"
+		},
+		{
+			"sound": "bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf_digo",
+			"boxState": "normal",
+			"expression": "nose",
+			"text": "Beep?"
+		},
+		{
+			"sound": "gfDialogue",
+			"speed": 0.2,
+			"portrait": "gf_digo",
+			"boxState": "normal",
+			"expression": "que",
+			"text": "Merda."
+		},
+		{
+			"sound": "bambDialogue1",
+			"speed": 0.05,
+			"portrait": "bambi_digo",
+			"boxState": "normal",
+			"expression": "enojado",
+			"text": "Ei! Cê tá tentando roubar o meu milho?"
+		},
+		{
+			"sound": "bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf_digo",
+			"boxState": "normal",
+			"expression": "nose",
+			"text": "Bo beep ber-"
+		},
+		{
+			"sound": "bambDialogue1",
+			"speed": 0.05,
+			"portrait": "bambi_digo",
+			"boxState": "angry",
+			"expression": "enojado",
+			"text": "EU BLOQUEAR VOCÊ DA MINHA FAZENDA! Vocês nunca mais vão voltar seus forasteiros de uma figa."
+		},
+		{
+			"sound": "bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf_digo",
+			"boxState": "normal",
+			"expression": "nose",
+			"text": "Bop?"
+		},
+		{
+			"sound": "gfDialogue",
+			"speed": 0.05,
+			"portrait": "gf_digo",
+			"boxState": "normal",
+			"expression": "que",
+			"text": "Só faz o que cê faz de melhor Boyfriend."
+		}
+	]
+}

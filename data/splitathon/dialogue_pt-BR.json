@@ -1,0 +1,180 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Continuamos com o grupo lá fora, se socializando.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "tupapa"
+		},
+		{
+			"expression": "dave AH",
+			"text": "Ei, uhh, seu nome é BF, certo?",
+			"boxState": "normal",
+			"sound": "daveDialogue",
+			"speed": 0.05,
+			"portrait": "dave_digo"
+		},
+		{
+			"expression": "normal",
+			"text": "Bo?",
+			"boxState": "normal",
+			"sound": "bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf_digo"
+		},
+		{
+			"expression": "dave AH",
+			"text": "Eu sinto que nunca realmente se decidimos da última vez que nós cantamos..",
+			"boxState": "normal",
+			"sound": "daveDialogue",
+			"speed": 0.04,
+			"portrait": "dave_digo"
+		},
+		{
+			"expression": "normal",
+			"text": "Bop?",
+			"boxState": "normal",
+			"sound": "bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf_digo"
+		},
+		{
+			"expression": "que",
+			"text": "Decidimos o que?",
+			"boxState": "normal",
+			"sound": "gfDialogue",
+			"speed": 0.05,
+			"portrait": "gf_digo"
+		},
+		{
+			"expression": "dave AH",
+			"text": "Não decidimos em quem é o melhor nessa coisa toda de cantoria.",
+			"boxState": "normal",
+			"sound": "daveDialogue",
+			"speed": 0.04,
+			"portrait": "dave_digo"
+		},
+		{
+			"expression": "normal",
+			"text": "Boh.",
+			"boxState": "normal",
+			"sound": "bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf_digo"
+		},
+		{
+			"expression": "normal",
+			"text": "eu posso separar uns arranjos aqui rapidinho se você realmente quiser saber.",
+			"boxState": "normal",
+			"sound": "gfDialogue",
+			"speed": 0.04,
+			"portrait": "gf_digo"
+		},
+		{
+			"expression": "dave AH",
+			"text": "Bem, se esse for o caso..",
+			"boxState": "normal",
+			"sound": "daveDialogue",
+			"speed": 0.05,
+			"portrait": "dave_digo"
+		},
+		{
+			"expression": "dave AH",
+			"text": "GF, ponha o instrumental mais longo que você tem!",
+			"boxState": "normal",
+			"sound": "daveDialogue",
+			"speed": 0.04,
+			"portrait": "dave_digo"
+		},
+		{
+			"expression": "normal",
+			"text": "Tá certo então.. O melhor que posso fazer é dez minutos.",
+			"boxState": "normal",
+			"sound": "gfDialogue",
+			"speed": 0.04,
+			"portrait": "gf_digo"
+		},
+		{
+			"expression": "dave AH",
+			"text": "Bom, o que acha de uma batalha de 10 minutos BF?",
+			"boxState": "normal",
+			"sound": "daveDialogue",
+			"speed": 0.04,
+			"portrait": "dave_digo"
+		},
+		{
+			"expression": "enojado",
+			"text": "Yeah!",
+			"boxState": "normal",
+			"sound": "bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf_digo"
+		},
+		{
+			"expression": "dave AH",
+			"text": "Quem durar mais do que o outro será proclamado o melhor rapper.",
+			"boxState": "normal",
+			"sound": "daveDialogue",
+			"speed": 0.05,
+			"portrait": "dave_digo"
+		},
+		{
+			"expression": "largo",
+			"text": "E eu?",
+			"boxState": "normal",
+			"sound": "bambDialogue1",
+			"speed": 0.05,
+			"portrait": "bambi_digo"
+		},
+		{
+			"expression": "dave serio",
+			"text": "Bambi, isso não é da sua conta..",
+			"boxState": "normal",
+			"sound": "daveDialogue",
+			"speed": 0.05,
+			"portrait": "dave_digo"
+		},
+		{
+			"expression": "largo",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "bambDialogue1",
+			"speed": 0.295,
+			"portrait": "bambi_digo"
+		},
+		{
+			"expression": "talk",
+			"text": "Bambi parece chateado mas se senta e simplesmente assiste.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tupapa"
+		},
+		{
+			"expression": "largo",
+			"text": "Ok.",
+			"boxState": "normal",
+			"sound": "bambDialogue1",
+			"speed": 0.05,
+			"portrait": "bambi_digo"
+		},
+		{
+			"expression": "dave AH",
+			"text": "Certo, vamos acabar com isso!",
+			"boxState": "normal",
+			"sound": "daveDialogue",
+			"speed": 0.05,
+			"portrait": "dave_digo"
+		},
+		{
+			"expression": "enojado",
+			"text": "Beep bo bop!",
+			"boxState": "normal",
+			"sound": "bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf_digo"
+		}
+	]
+}

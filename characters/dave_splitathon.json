@@ -1,0 +1,71 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [54, 1],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [53, -12],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [23, 11],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [12, -4],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [-12, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "huh",
+			"indices": [],
+			"name": "waiting"
+		},
+		{
+			"offsets": [-12, 0],
+			"indices": [95],
+			"fps": 24,
+			"anim": "huh2",
+			"loop": true,
+			"name": "waiting"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/dave/dave_splitathon",
+	"position": [-10, 180],
+	"healthicon": "dave-annoyed",
+	"flip_x": false,
+	"healthbar_colors": [15, 95, 255],
+	"camera_position": [-70, 100],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

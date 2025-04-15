@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "splitathon idle"
+		},
+		{
+			"offsets": [33, -9],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "splitathon left"
+		},
+		{
+			"offsets": [-39, -25],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "splitathon down"
+		},
+		{
+			"offsets": [-29, 43],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "splitathon up"
+		},
+		{
+			"offsets": [-101, 3],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "splitathon right"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/bambi/bambi_splitathon",
+	"position": [0, 420],
+	"healthicon": "bambi",
+	"flip_x": false,
+	"healthbar_colors": [37, 191, 55],
+	"camera_position": [40, 80],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

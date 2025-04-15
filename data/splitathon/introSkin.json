@@ -1,0 +1,8 @@
+{
+"counter": "splitathon",
+"counterSounds": "splitathon",
+"counterSize": 1.3,
+"counterFadeTime": 0.5,
+"counterFadeEase": "CircInOut",
+"counterAntialiasing": false
+}
